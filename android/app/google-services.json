@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "856874444832",
+    "firebase_url": "https://aore-fff15.firebaseio.com",
+    "project_id": "aore-fff15",
+    "storage_bucket": "aore-fff15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856874444832:android:7709639d06329ddb613445",
+        "android_client_info": {
+          "package_name": "com.aore.aore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856874444832-l6vps6qhcj4clija0oabltj9g6nuuhd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU5pggZlxltQ_qIImXyPsDNLdZajuBeW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856874444832-l6vps6qhcj4clija0oabltj9g6nuuhd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
